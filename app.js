@@ -1,0 +1,1 @@
+//This is the JavaScript file which added in feature branch.
